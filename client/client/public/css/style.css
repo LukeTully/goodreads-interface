@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box; }
+
+html {
+  font-size: 16px; }
+
+#app-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-column-gap: 1rem;
+  justify-items: center; }
+
+.active-search .intro-heading {
+  display: none; }
+
+.active-search .main-inner {
+  padding-top: 1rem; }
+
+.active-search #author-search-input {
+  width: 80%;
+  float: left;
+  clear: none; }
+
+.active-search #author-search-input + input[type=submit] {
+  float: right;
+  margin: 0;
+  clear: none;
+  width: 20%;
+  color: transparent; }
+
+.book-tile {
+  width: 18.75rem;
+  overflow: hidden; }
+  .book-tile img {
+    max-width: 300px; }
+  .book-tile ul {
+    display: block;
+    max-width: 100%;
+    float: left;
+    margin: 0;
+    padding: 1rem; }
+    .book-tile ul li {
+      margin: 0;
+      padding: 0;
+      width: 100%; }
+
+.main-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-left: 2rem;
+  padding-right: 2rem; }
+
+.intro-heading {
+  font-family: 'Arbutus Slab';
+  margin-bottom: 4rem; }
+
+#author-search-input {
+  border-width: 0 0 2px 0;
+  border-color: #000000;
+  width: 100%;
+  font-size: 2rem;
+  font-family: 'Lato';
+  font-weight: 200;
+  padding-bottom: 0.4rem; }
+
+#author-search-input:focus {
+  outline: none;
+  border-color: red;
+  transition: border-color 1s; }
+
+#author-search-input + input {
+  display: block;
+  clear: both;
+  border: 0;
+  background-color: #000;
+  color: #fff;
+  padding: 1rem;
+  font-size: 1rem;
+  font-family: 'Arbutus Slab';
+  float: right;
+  margin-top: 4rem; }

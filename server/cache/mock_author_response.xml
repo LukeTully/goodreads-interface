@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[U5te80c4j6f4GRgIQWAhvA]]></key>
+    <method><![CDATA[api_author_link]]></method>
+  </Request>
+  
+
+		<author id="1406384">
+			<name><![CDATA[John Green]]></name>
+			<link>https://www.goodreads.com/author/show/1406384.John_Green?utm_medium=api&amp;utm_source=author_link</link>
+		</author>
+	
+	
+
+</GoodreadsResponse>

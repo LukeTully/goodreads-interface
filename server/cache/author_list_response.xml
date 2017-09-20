@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+	<Request>
+		<authentication>true</authentication>
+		<key><![CDATA[U5te80c4j6f4GRgIQWAhvA]]></key>
+		<method><![CDATA[author_list]]></method>
+	</Request>
+	<author>
+		<id>1406384</id>
+		<name>John Green</name>
+		<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+		<books start="1" end="30" total="47">
+			<book>
+				<id type="integer">11870085</id>
+				<isbn>0525478817</isbn>
+				<isbn13>9780525478812</isbn13>
+				<text_reviews_count type="integer">126796</text_reviews_count>
+				<title>The Fault in Our Stars</title>
+				<title_without_series>The Fault in Our Stars</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1360206420m/11870085.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1360206420s/11870085.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
+				<num_pages>313</num_pages>
+				<format>Hardcover</format>
+				<edition_information/>
+				<publisher>Dutton Books</publisher>
+				<publication_day>10</publication_day>
+				<publication_year>2012</publication_year>
+				<publication_month>1</publication_month>
+				<average_rating>4.28</average_rating>
+				<ratings_count>2351631</ratings_count>
+				<description>&lt;i&gt;There is an alternate cover edition &lt;a href="https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;"I fell in love the way you fall asleep: slowly, then all at once."&lt;br /&gt;&lt;br /&gt;Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt;Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;'Electric . . . Filled with staccato bursts of humor and tragedy'&lt;/i&gt;&lt;br /&gt;- Jodi Picoult&lt;br /&gt;&lt;br /&gt;&lt;i&gt; 'A novel of life and death and the people caught in between, The Fault in Our Stars is John Green at his best. You laugh, you cry, and then you come back for more'&lt;/i&gt;&lt;br /&gt;- Markus Zusak, author of &lt;a href="https://www.goodreads.com/book/show/19063.The_Book_Thief?ac=1&amp;amp;from_search=true" rel="nofollow"&gt;The Book Thief&lt;/a&gt;</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2012</published>
+			</book>
+			<book>
+				<id type="integer">99561</id>
+				<isbn>0142402516</isbn>
+				<isbn13>9780142402511</isbn13>
+				<text_reviews_count type="integer">40896</text_reviews_count>
+				<title>Looking for Alaska</title>
+				<title_without_series>Looking for Alaska</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1394798630m/99561.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1394798630s/99561.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/99561.Looking_for_Alaska</link>
+				<num_pages>221</num_pages>
+				<format>Paperback</format>
+				<edition_information/>
+				<publisher>Speak</publisher>
+				<publication_day>28</publication_day>
+				<publication_year>2006</publication_year>
+				<publication_month>12</publication_month>
+				<average_rating>4.10</average_rating>
+				<ratings_count>794497</ratings_count>
+				<description>&lt;b&gt;Before.&lt;/b&gt; Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “the Great Perhaps” even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver Creek Boarding School, and his life becomes the opposite of safe. Because down the hall is Alaska Young. The gorgeous, clever, funny, sexy, self-destructive, screwed up, and utterly fascinating Alaska Young. She is an event unto herself. She pulls Pudge into her world, launches him into the Great Perhaps, and steals his heart. Then. . . . &lt;br /&gt;&lt;b&gt;After.&lt;/b&gt; Nothing is ever the same.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2006</published>
+			</book>
+			<book>
+				<id type="integer">6442769</id>
+				<isbn>014241493X</isbn>
+				<isbn13>9780142414934</isbn13>
+				<text_reviews_count type="integer">27345</text_reviews_count>
+				<title>Paper Towns</title>
+				<title_without_series>Paper Towns</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1349013610m/6442769.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1349013610s/6442769.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/6442769-paper-towns</link>
+				<num_pages>305</num_pages>
+				<format>Paperback</format>
+				<edition_information/>
+				<publisher>Speak</publisher>
+				<publication_day>22</publication_day>
+				<publication_year>2009</publication_year>
+				<publication_month>9</publication_month>
+				<average_rating>3.90</average_rating>
+				<ratings_count>635314</ratings_count>
+				<description>&lt;b&gt;Who is the real Margo?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs into his life—dressed like a ninja and summoning him for an ingenious campaign of revenge—he follows. After their all-nighter ends, and a new day breaks, Q arrives at school to discover that Margo, always an enigma, has now become a mystery. But Q soon learns that there are clues—and they're for him. Urged down a disconnected path, the closer he gets, the less Q sees the girl he thought he knew...</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2009</published>
+			</book>
+			<book>
+				<id type="integer">49750</id>
+				<isbn>0525476881</isbn>
+				<isbn13>9780525476887</isbn13>
+				<text_reviews_count type="integer">15352</text_reviews_count>
+				<title>An Abundance of Katherines</title>
+				<title_without_series>An Abundance of Katherines</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1360206426m/49750.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1360206426s/49750.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/49750.An_Abundance_of_Katherines</link>
+				<num_pages>229</num_pages>
+				<format/>
+				<edition_information/>
+				<publisher/>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>3.64</average_rating>
+				<ratings_count>333056</ratings_count>
+				<description>Katherine V thought boys were gross&lt;br /&gt;Katherine X just wanted to be friends&lt;br /&gt;Katherine XVIII dumped him in an e-mail&lt;br /&gt;K-19 broke his heart&lt;br /&gt;&lt;br /&gt;When it comes to relationships, Colin Singleton's type happens to be girls named Katherine. And when it comes to girls named Katherine, Colin is always getting dumped. Nineteen times, to be exact.&lt;br /&gt;&lt;br /&gt;On a road trip miles from home, this anagram-happy, washed-up child prodigy has ten thousand dollars in his pocket, a bloodthirsty feral hog on his trail, and an overweight, Judge Judy-loving best friend riding shotgun--but no Katherines. Colin is on a mission to prove The Theorem of Underlying Katherine Predictability, which he hopes will predict the future of any relationship, avenge Dumpees everywhere, and finally win him the girl.&lt;br /&gt;&lt;br /&gt;Love, friendship, and a dead Austro-Hungarian archduke add up to surprising and heart-changing conclusions in this ingeniously layered comic novel about reinventing oneself.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">6567017</id>
+				<isbn>0525421580</isbn>
+				<isbn13>9780525421580</isbn13>
+				<text_reviews_count type="integer">12832</text_reviews_count>
+				<title>Will Grayson, Will Grayson</title>
+				<title_without_series>Will Grayson, Will Grayson</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1368393890m/6567017.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1368393890s/6567017.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/6567017-will-grayson-will-grayson</link>
+				<num_pages>310</num_pages>
+				<format>Hardcover</format>
+				<edition_information/>
+				<publisher>Dutton Books</publisher>
+				<publication_day>6</publication_day>
+				<publication_year>2010</publication_year>
+				<publication_month>4</publication_month>
+				<average_rating>3.85</average_rating>
+				<ratings_count>242330</ratings_count>
+				<description>Will Grayson meets Will Grayson. One cold night, in a most unlikely corner of Chicago, two strangers are about to cross paths. From that moment on, their world will collide and lives intertwine.&lt;br /&gt;&lt;br /&gt;It's not that far from Evanston to Naperville, but Chicago suburbanites Will Grayson and Will Grayson might as well live on different planets. When fate delivers them both to the same surprising crossroads, the Will Graysons find their lives overlapping and hurtling in new and unexpected directions. With a push from friends new and old - including the massive, and massively fabulous, Tiny Cooper, offensive lineman and musical theater auteur extraordinaire - Will and Will begin building toward respective romantic turns-of-heart and the epic production of history's most awesome high school musical.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2010</published>
+			</book>
+			<book>
+				<id type="integer">33290383</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">347</text_reviews_count>
+				<title>Let it Snow</title>
+				<title_without_series>Let it Snow</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1481206665m/33290383.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1481206665s/33290383.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/33290383-let-it-snow</link>
+				<num_pages>365</num_pages>
+				<format>Kindle Edition</format>
+				<edition_information/>
+				<publisher>Speak</publisher>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>3.84</average_rating>
+				<ratings_count>73688</ratings_count>
+				<description>&lt;b&gt;The &lt;i&gt;New York Times&lt;/i&gt; bestseller!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Sparkling white snowdrifts, beautiful presents wrapped in ribbons, and multicolored lights glittering in the night through the falling snow. A Christmas Eve snowstorm transforms one small town into a romantic haven, the kind you see only in movies. Well, kinda. After all, a cold and wet hike from a stranded train through the middle of nowhere would not normally end with a delicious kiss from a charming stranger. And no one would think that a trip to the Waffle House through four feet of snow would lead to love with an old friend. Or that the way back to true love begins with a painfully early morning shift at Starbucks. Thanks to three of today’s bestselling teen authors—John Green, Maureen Johnson, and Lauren Myracle—the magic of the holidays shines on these hilarious and charming interconnected tales of love, romance, and breathtaking kisses.&lt;br /&gt;</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">15860080</id>
+				<isbn>0525426094</isbn>
+				<isbn13>9780525426097</isbn13>
+				<text_reviews_count type="integer">118</text_reviews_count>
+				<title>John Green Box Set (4 Books)</title>
+				<title_without_series>John Green Box Set</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1361578289m/15860080.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1361578289s/15860080.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/15860080-john-green-box-set</link>
+				<num_pages/>
+				<format>Hardcover</format>
+				<edition_information>Boxed Set</edition_information>
+				<publisher>Dutton Juvenile</publisher>
+				<publication_day>25</publication_day>
+				<publication_year>2012</publication_year>
+				<publication_month>10</publication_month>
+				<average_rating>4.52</average_rating>
+				<ratings_count>6918</ratings_count>
+				<description>Four critically acclaimed, award-winning modern classics from #1 New York Times-bestselling author John Green&lt;br /&gt;&lt;br /&gt;This John Green deluxe box set includes Printz Award–winning Looking for Alaska, Printz Honor book An Abundance of Katherines, Edgar Award–winning Paper Towns, and #1 New York Times–bestselling The Fault in Our Stars. Exclusive edition contains signed copies of Looking for Alaska and the Fault in Our Stars.&lt;br /&gt;&lt;br /&gt;The exquisite library case designed by Karen Kavett features popular quotes and icons from all four titles and the award-winning backlist has been luxuriously upgraded; both An Abundance of Katherines and Paper Towns have jacket designs never before available as hardcover editions.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2012</published>
+			</book>
+			<book>
+				<id type="integer">10268370</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">606</text_reviews_count>
+				<title>Zombicorns (Zombicorns, #1)</title>
+				<title_without_series>Zombicorns</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/10268370-zombicorns</link>
+				<num_pages>72</num_pages>
+				<format>ebook</format>
+				<edition_information>Free online short</edition_information>
+				<publisher/>
+				<publication_day/>
+				<publication_year>2011</publication_year>
+				<publication_month>1</publication_month>
+				<average_rating>3.75</average_rating>
+				<ratings_count>5980</ratings_count>
+				<description>(From novella introduction)&lt;br /&gt;&lt;br /&gt;Dearest Reader,&lt;br /&gt;This is a bad zombie apocalypse novella. It was written in a hurry. It is riddled with inconsistencies. And it never quite arrives at whatever point it sought to make. But remember: The $25 you donated to charity in exchange for this steaming mess of prose will help our species shuffle along, and I hope you’ll feel warmed by your good deed as you read. Thank you for decreasing the overall worldwide level of suck, and as they say in my hometown: Don’t forget to be awesome.&lt;br /&gt;&lt;br /&gt;Best wishes!&lt;br /&gt;John Green&lt;br /&gt;&lt;br /&gt;* The book has been made available under creative commons license, so it can be acquired legally here: &lt;a target="_blank" href="http://effyeahnerdfighters.com/post/2835409604/didnt-get-your-chance-to-get-your-hands-on-john" rel="nofollow"&gt;http://effyeahnerdfighters.com/post/2...&lt;/a&gt; :)</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2011</published>
+			</book>
+			<book>
+				<id type="integer">21112453</id>
+				<isbn>0141350938</isbn>
+				<isbn13>9780141350936</isbn13>
+				<text_reviews_count type="integer">49</text_reviews_count>
+				<title>John Green - The Collection</title>
+				<title_without_series>John Green - The Collection</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1402776296m/21112453.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1402776296s/21112453.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/21112453-john-green---the-collection</link>
+				<num_pages/>
+				<format/>
+				<edition_information/>
+				<publisher/>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>4.59</average_rating>
+				<ratings_count>2301</ratings_count>
+				<description>John Green - The Collection includes five novels from the critically acclaimed, best-selling master of modern storytelling, brought together for the first time.&lt;br /&gt;&lt;br /&gt;Includes The Fault in Our Stars, Looking for Alaska, Paper Towns, An Abundance of Katherines and Will Grayson, Will Grayson (co-written with David Levithan).</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">15838434</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">130</text_reviews_count>
+				<title>The War for Banks Island (Zombicorns, #2)</title>
+				<title_without_series>The War for Banks Island</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1345486567m/15838434.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1345486567s/15838434.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/15838434-the-war-for-banks-island</link>
+				<num_pages>48</num_pages>
+				<format>ebook</format>
+				<edition_information/>
+				<publisher/>
+				<publication_day>20</publication_day>
+				<publication_year>2012</publication_year>
+				<publication_month>8</publication_month>
+				<average_rating>3.67</average_rating>
+				<ratings_count>1351</ratings_count>
+				<description>A sequel to John's 2010 p4a story "Zombicorns," "The War for Banks Island" takes place thirty years after the zombie apocalypse and is set primarily on a remote Canadian island where Mia has escaped and lives in a large city of surviving humans. But after years of stability, the Zs encroach.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2012</published>
+			</book>
+			<book>
+				<id type="integer">15837671</id>
+				<isbn>0141346019</isbn>
+				<isbn13>9780141346014</isbn13>
+				<text_reviews_count type="integer">101</text_reviews_count>
+				<title>Untitled</title>
+				<title_without_series>Untitled</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/15837671-untitled</link>
+				<num_pages/>
+				<format>Unknown Binding</format>
+				<edition_information/>
+				<publisher>Puffin</publisher>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>4.02</average_rating>
+				<ratings_count>488</ratings_count>
+				<description>&lt;b&gt;Placeholder record&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="http://fishingboatproceeds.tumblr.com/post/102830853253/are-you-writing-a-book-titled-the-racket-because" rel="nofollow"&gt;John Green has stated that he's writing, but doesn't have a title at the moment.&lt;/a&gt;&lt;br /&gt;No further details about the book are available.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">17131011</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">44</text_reviews_count>
+				<title>Double On-Call and Other Stories</title>
+				<title_without_series>Double On-Call and Other Stories</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1357332665m/17131011.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1357332665s/17131011.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/17131011-double-on-call-and-other-stories</link>
+				<num_pages>69</num_pages>
+				<format>ebook</format>
+				<edition_information/>
+				<publisher/>
+				<publication_day>4</publication_day>
+				<publication_year>2013</publication_year>
+				<publication_month>1</publication_month>
+				<average_rating>3.75</average_rating>
+				<ratings_count>308</ratings_count>
+				<description>This was available as a perk for people who donated to the Harry Potter Alliance's Equality FTW fundraiser.&lt;br /&gt;&lt;br /&gt;The first section of John Green's unfinished, abandoned novel THE SEQUEL, which is a sequel to a novel that doesn't exist called THE ODD AT SEA. About the story, John says "THE SEQUEL contains a lot of the ideas that ended up in THE FAULT IN OUR STARS, although it's a very different kind of story. I worked on THE SEQUEL between 2008 and 2010 before finally putting it aside. There is of course a REASON why I abandoned it: It isn't very good. But it has some moments I still like, and I'm hoping seeing a draft like this will provide a window into one writer's process. And of course I want to raise some money for the HPA!" &lt;br /&gt;&lt;br /&gt;THE SEQUEL is the story of a young woman named Hannah al-Hajji who finds herself alone in the world after the novel in which she is a character ends. Everyone else in the novel disappears, but she for some reason is left with us. The story costars a young student chaplain, recently graduated from college, who happens to have read the novel that Hannah was a minor character in. The selection is 6,437 words long.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2013</published>
+			</book>
+			<book>
+				<id type="integer">15996374</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">13</text_reviews_count>
+				<title>The Sequel</title>
+				<title_without_series>The Sequel</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1352726198m/15996374.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1352726198s/15996374.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/15996374-the-sequel</link>
+				<num_pages/>
+				<format>ebook</format>
+				<edition_information/>
+				<publisher/>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>4.10</average_rating>
+				<ratings_count>164</ratings_count>
+				<description>This ebook was only available by donating to the Project for Awesome 2012.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">18514092</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">1</text_reviews_count>
+				<title>The Price of Dawn</title>
+				<title_without_series>The Price of Dawn</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1401917630m/18514092.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1401917630s/18514092.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/18514092-the-price-of-dawn</link>
+				<num_pages/>
+				<format>ebook</format>
+				<edition_information/>
+				<publisher>John Green / Indiegogo</publisher>
+				<publication_day/>
+				<publication_year>2013</publication_year>
+				<publication_month/>
+				<average_rating>4.15</average_rating>
+				<ratings_count>100</ratings_count>
+				<description>"[a] brilliant and haunting novelization..." - Augustus Waters&lt;br /&gt;&lt;br /&gt;The adventures of Staff Sergeant Max Mayhem, now available as a perk for people who donate to the Harry Potter Alliance's Equality FTW 2013 fundraiser!&lt;br /&gt;&lt;br /&gt;From Indiegogo: John Green will be providing us with an exclusive excerpt from THE PRICE OF DAWN: the book Augustus gives to Hazel in The Fault in Our Stars. THE PRICE OF DAWN is the novelization of a video game starring Staff Sergeant Max Mayhem. That’s right, it’s a fictional novel based on a fictional video game, all of which exists inside John Green’s bestselling work of fiction, The Fault in Our Stars. But now it’s REAL and it will be sent to you as a downloadable PDF.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2013</published>
+			</book>
+			<book>
+				<id type="integer">25703984</id>
+				<isbn>1501276832</isbn>
+				<isbn13>9781501276835</isbn13>
+				<text_reviews_count type="integer">4</text_reviews_count>
+				<title>John Green – Paper Towns and Looking for Alaska (2-in-1 Collection)</title>
+				<title_without_series>John Green – Paper Towns and Looking for Alaska</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1434698500m/25703984.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1434698500s/25703984.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/25703984-john-green-paper-towns-and-looking-for-alaska</link>
+				<num_pages/>
+				<format>Audio CD</format>
+				<edition_information/>
+				<publisher>Brilliance Audio</publisher>
+				<publication_day>1</publication_day>
+				<publication_year>2015</publication_year>
+				<publication_month>7</publication_month>
+				<average_rating>4.21</average_rating>
+				<ratings_count>52</ratings_count>
+				<description>Two John Green novels in one collection&lt;br /&gt;&lt;br /&gt;&lt;b&gt;
+  &lt;i&gt;Paper Towns&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs back into his life—dressed like a ninja and summoning him for an ingenious campaign of revenge—he follows. After their all-nighter ends and a new day breaks, Q arrives at school to discover that Margo, always an enigma, has now become a mystery. But Q soon learns that there are clues—and they’re for him. Urged down a disconnected path, the closer he gets, the less Q sees of the girl he thought he knew. Printz medalist John Green returns with the brilliant wit and searing emotional honesty that have inspired a new generation of listeners.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;
+  &lt;i&gt;Looking for Alaska&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;Miles Halter is fascinated by famous last words—and tired of his safe life at home. He leaves for boarding school to seek what the dying poet Francois Rabelais called the “Great Perhaps.” Much awaits Miles at Culver Creek, including Alaska Young. Clever, funny, screwed-up, and dead sexy, Alaska will pull Miles into her labyrinth and catapult him into the Great Perhaps. &lt;i&gt;Looking for Alaska&lt;/i&gt; brilliantly chronicles the indelible impact one life can have on another. A stunning debut, it marks John Green’s arrival as an important new voice in contemporary fiction.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2015</published>
+			</book>
+			<book>
+				<id type="integer">25703983</id>
+				<isbn>1501276824</isbn>
+				<isbn13>9781501276828</isbn13>
+				<text_reviews_count type="integer">4</text_reviews_count>
+				<title>John Green – The Fault in Our Stars and An Abundance of Katherines (2-in-1 Collection)</title>
+				<title_without_series>John Green – The Fault in Our Stars and An Abundance of Katherines</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1434698479m/25703983.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1434698479s/25703983.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/25703983-john-green-the-fault-in-our-stars-and-an-abundance-of-katherines</link>
+				<num_pages/>
+				<format>Audio CD</format>
+				<edition_information/>
+				<publisher>Brilliance Audio</publisher>
+				<publication_day>1</publication_day>
+				<publication_year>2015</publication_year>
+				<publication_month>7</publication_month>
+				<average_rating>4.07</average_rating>
+				<ratings_count>45</ratings_count>
+				<description>Two John Green novels in one collection&lt;br /&gt;&lt;br /&gt;&lt;b&gt;
+  &lt;i&gt;The Fault in Our Stars&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel’s story is about to be completely rewritten. Insightful, bold, irreverent, and raw, &lt;i&gt;The Fault in Our Stars&lt;/i&gt; is award-winning-author John Green’s most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;
+  &lt;i&gt;An Abundance of Katherines&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;When it comes to relationships, Colin Singleton’s type is girls named Katherine. And when it comes to girls named Katherine, Colin is always getting dumped. Nineteen times, to be exact. On a road trip miles from home, this anagram-happy, washed-up child prodigy has ten thousand dollars in his pocket, a bloodthirsty feral hog on his trail, and an overweight, Judge Judy-loving best friend riding shotgun–but no Katherines. Colin is on a mission to prove The Theorem of Underlying Katherine Predictability, which he hopes will predict the future of any relationship, avenge Dumpees everywhere, and finally win him the girl. Love, friendship, and a dead Austro-Hungarian archduke add up to surprising and heart-changing conclusions in this ingeniously layered comic novel about reinventing oneself by Printz medalist John Green, acclaimed author of &lt;i&gt;Looking for Alaska&lt;/i&gt;.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2015</published>
+			</book>
+			<book>
+				<id type="integer">17208921</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">3</text_reviews_count>
+				<title>Double On-Call</title>
+				<title_without_series>Double On-Call</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1357336871m/17208921.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1357336871s/17208921.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/17208921-double-on-call</link>
+				<num_pages>17</num_pages>
+				<format>ebook</format>
+				<edition_information/>
+				<publisher/>
+				<publication_day>4</publication_day>
+				<publication_year>2013</publication_year>
+				<publication_month>1</publication_month>
+				<average_rating>3.79</average_rating>
+				<ratings_count>38</ratings_count>
+				<description/>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2013</published>
+			</book>
+			<book>
+				<id type="integer">22727409</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">5</text_reviews_count>
+				<title>The Space &amp; The Cat and the Mouse</title>
+				<title_without_series>The Space &amp; The Cat and the Mouse</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1405393923m/22727409.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1405393923s/22727409.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/22727409-the-space-the-cat-and-the-mouse</link>
+				<num_pages>18</num_pages>
+				<format>ebook</format>
+				<edition_information/>
+				<publisher/>
+				<publication_day>14</publication_day>
+				<publication_year>2014</publication_year>
+				<publication_month>7</publication_month>
+				<average_rating>3.44</average_rating>
+				<ratings_count>36</ratings_count>
+				<description>Download a 5,000 word sneak peak at a very rough draft of a story that John has been working on for the past few months ALONG WITH the first story that John ever wrote, dictated to his mother when he was six years old.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2014</published>
+			</book>
+			<book>
+				<id type="integer">33516221</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">3</text_reviews_count>
+				<title>A Cheertastic Christmas Miracle (Let It Snow, #2)</title>
+				<title_without_series>A Cheertastic Christmas Miracle</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/33516221-a-cheertastic-christmas-miracle</link>
+				<num_pages/>
+				<format/>
+				<edition_information/>
+				<publisher/>
+				<publication_day>2</publication_day>
+				<publication_year>2008</publication_year>
+				<publication_month>10</publication_month>
+				<average_rating>3.67</average_rating>
+				<ratings_count>21</ratings_count>
+				<description/>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2008</published>
+			</book>
+			<book>
+				<id type="integer">30645040</id>
+				<isbn>2070665240</isbn>
+				<isbn13>9782070665242</isbn13>
+				<text_reviews_count type="integer">0</text_reviews_count>
+				<title>Coffret John Green en 3 volumes : Qui es-tu Alaska ? ; La face cachée de Margot ; Will &amp; Will</title>
+				<title_without_series>Coffret John Green en 3 volumes : Qui es-tu Alaska ? ; La face cachée de Margot ; Will &amp; Will</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/30645040-coffret-john-green-en-3-volumes</link>
+				<num_pages/>
+				<format/>
+				<edition_information/>
+				<publisher/>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>3.75</average_rating>
+				<ratings_count>4</ratings_count>
+				<description/>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">32607299</id>
+				<isbn>8033657243</isbn>
+				<isbn13>9788033657248</isbn13>
+				<text_reviews_count type="integer">1</text_reviews_count>
+				<title>John Green 6 Books Collection Pack Set (Will Grayson, Will Grayson, An Abundance of Katherines, Paper Towns, The Fault in Our Stars, Looking for Alaska, Let It Snow)</title>
+				<title_without_series>John Green 6 Books Collection Pack Set</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/32607299-john-green-6-books-collection-pack-set</link>
+				<num_pages/>
+				<format/>
+				<edition_information/>
+				<publisher/>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>5.00</average_rating>
+				<ratings_count>3</ratings_count>
+				<description/>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">33565221</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">0</text_reviews_count>
+				<title>a vampires mission</title>
+				<title_without_series>a vampires mission</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/33565221-a-vampires-mission</link>
+				<num_pages/>
+				<format/>
+				<edition_information/>
+				<publisher/>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>4.50</average_rating>
+				<ratings_count>2</ratings_count>
+				<description/>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">34096434</id>
+				<isbn>014137070X</isbn>
+				<isbn13>9780141370705</isbn13>
+				<text_reviews_count type="integer">0</text_reviews_count>
+				<title>John Green Collection</title>
+				<title_without_series>John Green Collection</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/34096434-john-green-collection</link>
+				<num_pages/>
+				<format/>
+				<edition_information/>
+				<publisher/>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>5.00</average_rating>
+				<ratings_count>1</ratings_count>
+				<description/>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">33955196</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">0</text_reviews_count>
+				<title>Heart Love The Beginning</title>
+				<title_without_series>Heart Love The Beginning</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/33955196-heart-love-the-beginning</link>
+				<num_pages/>
+				<format/>
+				<edition_information/>
+				<publisher/>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>3.00</average_rating>
+				<ratings_count>1</ratings_count>
+				<description/>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">34675882</id>
+				<isbn nil="true"/>
+				<isbn13>9788763839648</isbn13>
+				<text_reviews_count type="integer">0</text_reviews_count>
+				<title>Endnu en Katherine</title>
+				<title_without_series>Endnu en Katherine</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1490382788m/34675882.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1490382788s/34675882.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/34675882-endnu-en-katherine</link>
+				<num_pages/>
+				<format>ebook</format>
+				<edition_information/>
+				<publisher>Høst &amp; Søn</publisher>
+				<publication_day>30</publication_day>
+				<publication_year>2015</publication_year>
+				<publication_month>4</publication_month>
+				<average_rating>0.0</average_rating>
+				<ratings_count>0</ratings_count>
+				<description>&lt;em&gt;Endnu en Katherine&lt;/em&gt; er en prisvindende ungdomsroman af succesforfatteren bag &lt;em&gt;Gåden om Alaska&lt;/em&gt;, den filmaktuelle (juni 2015) &lt;em&gt;Paper Towns &lt;/em&gt;og &lt;em&gt;En flænge i himlen&lt;/em&gt;. &lt;em&gt;Endnu en Katherine&lt;/em&gt; tilbyder som forfatterens andre titler både noget at grine, græde og tænke over.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Mød Colin Singleton. Forhenværende vidunderbarn. Forhenværende fuld af potentiale. Nuværende fuld af lort. En anagramelskende nørd på mission for at påvise sin teori om, at menneskeheden kan opdeles i præcis to slags individer: Droppere og Droppede.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Når det handler om piger (og det gør det tit for Colin Singleton), har alle hver deres type: Colins er ikke fysisk, men sproglig. Han kan godt lide Katheriner. Men nu er han blevet droppet. Af en pige ved navn Katherine. For nittende gang. Colin Singleton har et meget indviklet problem med en meget enkel løsning: Roadtrip.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Pressen skriver: &lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Det hele holdes sammen af et rapt og rasende spændstigt sprog, hvor store tanker bliver konkretiseret ned i letforståelige enkeltheder, og små hverdagsbegivenheder bliver ophøjet til indsigtsfulde konklusioner […] »Endnu en Katherine« er en særpræget og sjov roman om at finde sig selv i en verden, hvor man opfatter sig selv som anderledes.«&lt;br /&gt;&lt;em&gt;**** – &lt;/em&gt;Merete Reinholdt&lt;em&gt;, Berlingske&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Det er vanvittig befriende at være så meget revet med af en bog, at man bare fuldstændig giver slip, på både latter og tårer.«&lt;br /&gt;&lt;br /&gt;****** – Karin Hald, &lt;em&gt;skrivepulten.com&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Det er en fantastisk dejlig roman, om at være ung og søgende.«&lt;br /&gt;&lt;em&gt;– thejulesrules.dk&lt;/em&gt;</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2015</published>
+			</book>
+			<book>
+				<id type="integer">34675883</id>
+				<isbn nil="true"/>
+				<isbn13>9788763837095</isbn13>
+				<text_reviews_count type="integer">0</text_reviews_count>
+				<title>Paper Towns: Historien om Margo &amp; Q</title>
+				<title_without_series>Paper Towns: Historien om Margo &amp; Q</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1490382693m/34675883.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1490382693s/34675883.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/34675883-paper-towns</link>
+				<num_pages/>
+				<format>ebook</format>
+				<edition_information/>
+				<publisher>Høst &amp; Søn</publisher>
+				<publication_day>4</publication_day>
+				<publication_year>2014</publication_year>
+				<publication_month>11</publication_month>
+				<average_rating>0.0</average_rating>
+				<ratings_count>0</ratings_count>
+				<description>Paper Towns er historien om Margo og Q. Men også historien om et mysterie. Mysteriet om de mennesker, vi idealiserer så højt, at vi i vores jagt på at finde dem opdager, at vi leder efter de forkerte...&lt;br /&gt;&lt;br /&gt;John Green udforsker med Paper Towns, hvordan vi føler med, forelsker os i og idealiserer mennesker, som i virkeligheden er irriterende eller træffer forfærdelige beslutninger. Kærlighedshistorien om Margo &amp;amp; Q giver læseren mere end bare en romantisk og sjov fortælling, men også noget at tænke over - hvilket efterhånden er John Greens specialitet.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Barndomsvennerne Q og Margo går på samme high school, men er vokset fra hinanden. Q følger fascineret fra sidelinjen den gådefulde, smukke Margo, som flirter rundt med de populære elever på skolen. Men hun bliver først et mysterium, da hun en tilfældig aften kravler ind gennem Qs vindue og tilbage i hans liv - med planer om en hævnkampagne mod alle der nogensinde har såret hende.&lt;br /&gt;&lt;br /&gt;Efter deres eskapade-nat forsvinder Margo, og Q dropper sin eksamen og sætter sig for at finde hende, død eller levende, ved at følge de spor, hun har efterladt ham.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Paper Towns &lt;/em&gt;er bogen bag filmen af samme navn og dermed biograf-opfølgeren til &lt;em&gt;En flænge i himlen&lt;/em&gt;.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Pressen skrev:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Der bliver ikke leflet for den unge læser, det er filosofi i fiktionsform, men det tunge serveres med let humor, stigende spænding og rappe dialoger. Efter endt læsning sidder man – også som ældre ung – tilbage med en stille erkendelse af, at man er blevet en lille smule klogere på sig selv og sine anlæg for at klippe luftkasteller af pis og papir.«&lt;br /&gt;&lt;br /&gt;***** - Merete Reinholdt, Berlingske&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Velskrevet, vedkommende og indsigtsfuld ungdomsbog, der med humor og kant får alle til at tænke over hvem deres venner og kærester i virkeligheden er bag facaden.«&lt;br /&gt;&lt;br /&gt;- Christine Christensen, Lektør&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Alt i alt var det en rigtig god læseoplevelse, og det er uden tvivl ikke sidste gang, jeg har læst bogen. Desuden gjorde den mig bare endnu mere hooked på Greens forfatterskab, og jeg kan slet ikke vente med at læse mere af ham.«&lt;br /&gt;&lt;br /&gt;**** - boghjørnet.dk&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»En forunderlig bog med en forunderlig hovedperson, som næsten ikke er til stede […] en kinesisk æske, et mylder af tanker og indtryk, et storslået forsøg på at finde den røde tråd.«&lt;br /&gt;&lt;br /&gt;**** - Steffen Larsen, Politiken&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»En rigtig flot og tankevækkende roman, hvor meget er på spil.«&lt;br /&gt;&lt;br /&gt;- Kent Poulsen, Børn &amp;amp; Bøger&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Greens prosa er enestående – fra vanvittig morsom, hyperintellektuel trash talk og slang, over kompleks filosofi, til overvældende observationer og sandheder. Han rammer plet – præcis hvordan ting føles, ser ud, påvirker – side efter side.«&lt;br /&gt;&lt;br /&gt;- School Library Journal&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Green funderer over fantasiens og opfattelsesevnens interne samhørighed … Han er ikke bare klog og vidunderlig sjov, men også dybt eftertænksom og indsigtsfuld.«&lt;br /&gt;&lt;br /&gt;- Booklist&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Eminent! … da jeg først kom ind i bogen var den fantastisk, og jeg slugte den rå på et par dage … John Green beviste i "En flænge i himlen" og "Gåden om Alaska", at han må være en fantastisk forfatter. Ikke alene er han den eneste der fanger mig ved andre bøger end fantasy, han formår at få mig til at grine med sine fantastiske, sære og filosoferende sætninger.«&lt;br /&gt;&lt;br /&gt;10/10 stjerner – bookeater.dk&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Pressen skriver:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Der bliver ikke leflet for den unge læser, det er filosofi i fiktionsform, men det tunge serveres med let humor, stigende spænding og rappe dialoger. Efter endt læsning sidder man – også som ældre ung – tilbage med en stille erkendelse af, at man er blevet en lille smule klogere på sig selv og sine anlæg for at klippe luftkasteller af pis og papir.«&lt;br /&gt;&lt;br /&gt;***** - Merete Reinholdt, &lt;em&gt;Berlingske&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Velskrevet, vedkommende og indsigtsfuld ungdomsbog, der med humor og kant får alle til at tænke over hvem deres venner og kærester i virkeligheden er bag facaden.«&lt;br /&gt;&lt;br /&gt;- Christine Christensen, Lektør&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Alt i alt var det en rigtig god læseoplevelse, og det er uden tvivl ikke sidste gang, jeg har læst bogen. Desuden gjorde den mig bare endnu mere hooked på Greens forfatterskab, og jeg kan slet ikke vente med at læse mere af ham.«&lt;br /&gt;&lt;em&gt;**** - boghjørnet.dk&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»En forunderlig bog med en forunderlig hovedperson, som næsten ikke er til stede […] en kinesisk æske, et mylder af tanker og indtryk, et storslået forsøg på at finde den røde tråd.«&lt;br /&gt;&lt;em&gt;**** - Steffen Larsen, Politiken&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»En rigtig flot og tankevækkende roman, hvor meget er på spil.«&lt;br /&gt;&lt;em&gt;- Kent Poulsen, Børn &amp;amp; Bøger&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Greens prosa er enestående – fra vanvittig morsom, hyperintellektuel trash talk og slang, over kompleks filosofi, til overvældende observationer og sandheder. Han rammer plet – præcis hvordan ting føles, ser ud, påvirker – side efter side.«&lt;br /&gt;&lt;em&gt;- School Library Journal&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Green funderer over fantasiens og opfattelsesevnens interne samhørighed … Han er ikke bare klog og vidunderlig sjov, men også dybt eftertænksom og indsigtsfuld.«&lt;br /&gt;&lt;em&gt;- Booklist&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Eminent! … da jeg først kom ind i bogen var den fantastisk, og jeg slugte den rå på et par dage … John Green beviste i "En flænge i himlen" og "Gåden om Alaska", at han må være en fantastisk forfatter. Ikke alene er han den eneste der fanger mig ved andre bøger end fantasy, han formår at få mig til at grine med sine fantastiske, sære og filosoferende sætninger.«&lt;br /&gt;&lt;br /&gt;10/10 stjerner – &lt;em&gt;bookeater.dk&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;»Spændende og eftertænksom bog om venskab, kærlighed og mod.«&lt;br /&gt;&lt;br /&gt;***** – &lt;em&gt;pallesgavebod.dk&lt;/em&gt;</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2014</published>
+			</book>
+			<book>
+				<id type="integer">34630033</id>
+				<isbn>1365808815</isbn>
+				<isbn13>9781365808814</isbn13>
+				<text_reviews_count type="integer">0</text_reviews_count>
+				<title>Alien Heredity</title>
+				<title_without_series>Alien Heredity</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/34630033-alien-heredity</link>
+				<num_pages/>
+				<format>Paperback</format>
+				<edition_information/>
+				<publisher>Lulu.com</publisher>
+				<publication_day>8</publication_day>
+				<publication_year>2017</publication_year>
+				<publication_month>3</publication_month>
+				<average_rating>0.0</average_rating>
+				<ratings_count>0</ratings_count>
+				<description>An erotically Utopian life in an alien world goes into chaos for reasons beyond understanding or control with a heaping helping of Karma thrown in for good measure. It is also a compelling love story beyond two planes of existence. Filled with action, battles and conflicts with scientific morality. A short dive into a deeper dilemma.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2017</published>
+			</book>
+			<book>
+				<id type="integer">34459369</id>
+				<isbn>1635615348</isbn>
+				<isbn13>9781635615340</isbn13>
+				<text_reviews_count type="integer">0</text_reviews_count>
+				<title>Dover Publications-Wonderful World Of Horses Coloring Book (Dover Nature Coloring Book)</title>
+				<title_without_series>Dover Publications-Wonderful World Of Horses Coloring Book</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/34459369-dover-publications-wonderful-world-of-horses-coloring-book</link>
+				<num_pages/>
+				<format/>
+				<edition_information/>
+				<publisher/>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>0.0</average_rating>
+				<ratings_count>0</ratings_count>
+				<description/>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">34464594</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">0</text_reviews_count>
+				<title>Booze &amp; Betrayal: The story of a man with two consuming loves. One betrayed him but his one true love almost destroyed him.</title>
+				<title_without_series>Booze &amp; Betrayal: The story of a man with two consuming loves. One betrayed him but his one true love almost destroyed him.</title_without_series>
+				<image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+				<small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/34464594-booze-betrayal</link>
+				<num_pages/>
+				<format/>
+				<edition_information/>
+				<publisher/>
+				<publication_day/>
+				<publication_year/>
+				<publication_month/>
+				<average_rating>0.0</average_rating>
+				<ratings_count>0</ratings_count>
+				<description/>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published/>
+			</book>
+			<book>
+				<id type="integer">34556416</id>
+				<isbn nil="true"/>
+				<isbn13 nil="true"/>
+				<text_reviews_count type="integer">0</text_reviews_count>
+				<title>Katherine'ite küllus</title>
+				<title_without_series>Katherine'ite küllus</title_without_series>
+				<image_url>https://images.gr-assets.com/books/1489411383m/34556416.jpg</image_url>
+				<small_image_url>https://images.gr-assets.com/books/1489411383s/34556416.jpg</small_image_url>
+				<large_image_url/>
+				<link>https://www.goodreads.com/book/show/34556416-katherine-ite-k-llus</link>
+				<num_pages>248</num_pages>
+				<format>Paperback</format>
+				<edition_information/>
+				<publisher>Pegasus</publisher>
+				<publication_day/>
+				<publication_year>2016</publication_year>
+				<publication_month/>
+				<average_rating>0.0</average_rating>
+				<ratings_count>0</ratings_count>
+				<description>Mis puutub suhetesse, siis meeldivad Colin Singletonile Katherine’i-nimelised tüdrukud. Ja mis puutub Katherine’i-nimelistesse tüdrukutesse, siis jätavad need Colini alati maha. Üheksateistkümmend korda järjest, kui täpne olla.&lt;br /&gt;&lt;br /&gt;Kui too anagrammihull äpardunud imelaps kodust kaugele automatkale läheb, on tal taskus kümme tuhat dollarit, kannul verejanuline metssiga ja kõrvalistmel ülekaaluline sõbramees, kes armastab "Kohtunik Judyt" – aga mitte ainumastki Katherine’it.&lt;br /&gt;&lt;br /&gt;Colini suur ülesanne on tõestada Katherine’i ennustatavuse alusteoreemi, mille abil saaks ennustada suvalise suhte käiku, maksta kätte kõigi mahajäetavate eest ja saada lõpuks tüdruk endale.&lt;br /&gt;&lt;br /&gt;Selles leidlikult mitmekihilises koomilises romaanis annavad armastus, sõprus ja surnud Austria-Ungari ertshertsog viimaks kokku üllatava ja seisukohti muutva tulemuse.</description>
+				<authors>
+					<author>
+						<id>1406384</id>
+						<name>John Green</name>
+						<role/>
+						<image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]></image_url>
+						<small_image_url nophoto="false"><![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]></small_image_url>
+						<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+						<average_rating>4.11</average_rating>
+						<ratings_count>4476617</ratings_count>
+						<text_reviews_count>274611</text_reviews_count>
+					</author>
+				</authors>
+				<published>2016</published>
+			</book>
+		</books>
+	</author>
+</GoodreadsResponse>
